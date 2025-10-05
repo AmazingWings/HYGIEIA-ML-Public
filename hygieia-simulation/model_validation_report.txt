@@ -1,0 +1,28 @@
+Space Debris Capture Model Validation Report
+=========================================
+
+1. Cross-Validation Results
+---------------------------
+Mean Balanced Accuracy: 96.84%
+Standard Deviation: ±0.25%
+
+2. Statistical Significance Analysis
+----------------------------------
+Baseline Traditional Method: 65.00%
+P-value: 1.3350e-09
+Statistically Significant: True
+
+3. Individual Fold Performance
+----------------------------
+Fold 1: 97.02%
+Fold 2: 97.13%
+Fold 3: 96.56%
+Fold 4: 96.53%
+Fold 5: 96.95%
+
+4. Feature Importance Analysis
+---------------------------
+mass_kg: 0.5419
+orbital_period_hours: 0.2305
+altitude_km: 0.2209
+inclination_deg: 0.0067

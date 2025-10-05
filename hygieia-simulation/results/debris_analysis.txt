@@ -1,0 +1,39 @@
+HYGIEIA ADVANCED DEBRIS CAPTURE ANALYSIS
+==================================================
+
+ANALYSIS SUMMARY
+--------------------
+Total debris analyzed: 34,999
+Capturable debris: 321 (0.9%)
+
+CAPTURE CONSTRAINTS
+--------------------
+- Maximum size: 15 cm
+- Altitude range: 200-2000 km
+- Relative velocity: ≤ 0.5 m/s
+- Orbital energy: Within 10% of mean
+
+MODEL PERFORMANCE
+--------------------
+- Cross-validation accuracy: 99.6% (+/- 1.7%)
+- Final accuracy: 100.0%
+
+KEY ORBITAL PARAMETERS
+--------------------
+- relative_velocity_potential: 0.000
+- inclination_deg: 0.000
+- mass_kg: 0.088
+- altitude_km: 0.102
+- orbital_energy: 0.105
+- orbital_period_hours: 0.116
+- escape_velocity: 0.162
+- angular_velocity: 0.203
+- orbital_velocity: 0.224
+
+CAPTURABLE DEBRIS CHARACTERISTICS
+--------------------
+Average values for capturable debris:
+- altitude_km: 1949.55 ± 27.93
+- mass_kg: 5.06 ± 2.88
+- orbital_velocity: 6921.31 ± 11.61
+- orbital_energy: -23952358.58 ± 80372.93
